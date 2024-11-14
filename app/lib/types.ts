@@ -1,0 +1,1 @@
+// Folder for upcoming TypeScript types and interfaces
